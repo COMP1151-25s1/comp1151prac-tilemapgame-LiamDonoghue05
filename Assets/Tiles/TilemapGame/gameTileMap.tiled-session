@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "tilemap.tsx": {
+            "scaleInDock": 1.5279,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.7702,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 55.07852220088127,
+                "y": 107.33250480171732
+            }
+        }
+    },
+    "last.imagePath": "/Users/liam/GitHub/Documents/comp1151prac-tilemapgame-LiamDonoghue05/Assets/Tiles/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 3,
+    "openFiles": [
+        "tilemap.tsx",
+        "untitled.tmx"
+    ],
+    "project": "gameTileMap.tiled-project",
+    "recentFiles": [
+        "tilemap.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
